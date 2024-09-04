@@ -7,7 +7,7 @@ Backend Developer
 I'm passionate about development, gadgets and cars. I am writing a backend in php + golang.
 
 * 🌍  I'm based in Astana
-* ✉️  You can contact me at [@darakanoit](t.me/darakanoit)
+* ✉️  You can contact me at [@darakanoit](https://t.me/darakanoit)
 * 🧠  I'm learning Goravel
 
 ### Skills
