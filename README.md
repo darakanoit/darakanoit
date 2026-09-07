@@ -13,16 +13,6 @@
 
 ---
 
-### Stack
-
-![Go](https://img.shields.io/badge/Go-1f2328?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1f2328?style=flat-square&logo=php&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-1f2328?style=flat-square&logo=apachekafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2328?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1f2328?style=flat-square&logo=grpc&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-1f2328?style=flat-square&logo=oracle&logoColor=white)
-
 ### Activity
 
 <picture>
