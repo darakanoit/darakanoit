@@ -18,11 +18,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api?username=darakanoit&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&hide_rank=true&hide=stars&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=e6edf3&ring_color=58a6ff" />
+    srcset="https://github-stats-extended.vercel.app/api?username=darakanoit&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=stars&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=e6edf3&ring_color=58a6ff" />
   <img
     height="200"
     alt="GitHub activity"
-    src="https://github-stats-extended.vercel.app/api?username=darakanoit&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,reviews&hide_rank=true&hide=stars&bg_color=00000000&text_color=59636e&icon_color=59636e&title_color=1f2328&ring_color=0969da" />
+    src="https://github-stats-extended.vercel.app/api?username=darakanoit&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=stars&bg_color=00000000&text_color=59636e&icon_color=59636e&title_color=1f2328&ring_color=0969da" />
 </picture>
 
 <!--
